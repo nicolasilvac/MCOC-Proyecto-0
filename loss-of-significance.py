@@ -21,4 +21,4 @@ for i in range(15):
 pyplot.plot(ERROR)
 	
 for i in range(15): 
-  print "Inercia 32:",L_32[i],", Inercia 64:",L_64[i],",Error:", ERROR[i]
+  print "Inercia 32:",L_32[i],", Inercia 64:",L_64[i],",Error:",ERROR[i]
